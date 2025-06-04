@@ -40,7 +40,7 @@
         <userAgent.version>1.21</userAgent.version>
         <transmittable.version>2.12.1</transmittable.version>
         <banner.version>1.0.2</banner.version>
-        <commons-beanutils.version>1.9.4</commons-beanutils.version>
+        <commons-beanutils.version>1.11.0</commons-beanutils.version>
         <spring-social-security.version>1.1.6.RELEASE</spring-social-security.version>
         <commons-io.version>2.7</commons-io.version>
         <servlet-api.version>4.0.1</servlet-api.version>
